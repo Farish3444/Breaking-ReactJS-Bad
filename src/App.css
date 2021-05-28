@@ -1,0 +1,15 @@
+.App {
+  text-align: center;  
+}
+
+.App >h1{
+  color: darkblue;
+}
+
+body{
+  background: #000 url('img/bg.jpg') no-repeat;
+}
+
+cards{
+  color: red;
+}
